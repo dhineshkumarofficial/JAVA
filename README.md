@@ -35,9 +35,9 @@ genius@Dinex:~/Documents/lab/java$ java ElectBill
 
 	 Total bill = Rs 177
 	 
-OUTPUT EX2:
+**OUTPUT EX2:**
 
-genius@Dinex:~/Documents/lab/java$ java Convertor 
+**genius@Dinex:~/Documents/lab/java$ java Convertor**
 Enter the code 1:Currency
 2:Distance
 3:Time
@@ -66,7 +66,7 @@ Kilometer : 0.1
 Enter the Kilometer
 1
 Meter : 1000
-genius@Dinex:~/Documents/lab/java$ java Convertor 
+**genius@Dinex:~/Documents/lab/java$ java Convertor**
 Enter the code 1:Currency
 2:Distance
 3:Time
