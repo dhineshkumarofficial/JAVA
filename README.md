@@ -113,4 +113,20 @@ Mobile Number: 8778239906
  Grosssalary =21910.0
  Netsalary =20700.0
 	 
-	
+OUTPUT EX4:
+
+genius@Dinex:~/Documents/lab/java$ java Shapes
+Enter values : 
+7 
+8
+Area of Rectangle is 56.0
+Area of Triangle is 28.0
+Area of Circle is 154.0
+genius@Dinex:~/Documents/lab/java$ java Shapes
+Enter values : 
+6
+9
+Area of Rectangle is 54.0
+Area of Triangle is 27.0
+Area of Circle is 113.0
+
