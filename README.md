@@ -82,6 +82,35 @@ Enter the Minute
 Hours : 5
 
 
-	 
+OUTPUT EX3:
+
+genius@Dinex:~/Documents/lab/java$ java ElectBill
+java EmployeePayslip
+Enter Name of Employee :
+karthi
+Enter ID of Employee :
+109
+Enter Address of Employee :
+25,kandamangalam
+Enter Mail ID of Employee :
+karthikeyan.cs25@ifet.ac.in               
+Enter Mobile Number of Employee :
+8778239906
+Enter the Basicpay :
+10000
+Enter the Designation :
+1. Programmer
+2. AssistantProfessor
+ 3. AssociateProfessor
+4.Professor 
+5. Exit
+2
+Name of The Employee :karthi***** payslip ****
+Employee Name: karthi
+Employee_ID: 109
+Address: 25,kandamangalam
+Mobile Number: 8778239906
+ Grosssalary =21910.0
+ Netsalary =20700.0
 	 
 	
