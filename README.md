@@ -130,3 +130,45 @@ Area of Rectangle is 54.0
 Area of Triangle is 27.0
 Area of Circle is 113.0
 
+OUTPUT EX5:
+
+genius@Dinex:~/Documents/lab/java$ java StackADT 
+Implementation of Stack using Array
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+1
+Enter the element
+10
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+1
+Enter the element
+15
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+1
+Enter the element
+25
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+3
+Elements are:  10 <-- 15 <-- 25 <--
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+2
+Popped element:25
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+3
+Elements are:  10 <-- 15 <--
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+2
+Popped element:15
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+3
+Elements are:  10 <--
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+4
